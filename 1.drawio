@@ -10,7 +10,7 @@
         <mxCell id="2jMfb3A7zRG2xOkepGvH-2" value="初始化：&lt;div&gt;挡料/点胶顶升气缸上升&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="30" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M8eEYuCn61d4ZEwFcFjv-1" value="要板" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="M8eEYuCn61d4ZEwFcFjv-1" value="要板：&lt;div&gt;向上位机发送要板信号；等待入口传感器响应&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

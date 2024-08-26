@@ -10,8 +10,36 @@
         <mxCell id="2jMfb3A7zRG2xOkepGvH-2" value="初始化：&lt;div&gt;挡料/点胶顶升气缸上升&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="30" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="M8eEYuCn61d4ZEwFcFjv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="1" source="M8eEYuCn61d4ZEwFcFjv-1" target="M8eEYuCn61d4ZEwFcFjv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M8eEYuCn61d4ZEwFcFjv-1" value="要板：&lt;div&gt;向上位机发送要板信号；等待入口传感器响应&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M8eEYuCn61d4ZEwFcFjv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#23445D;" edge="1" parent="1" source="M8eEYuCn61d4ZEwFcFjv-9" target="M8eEYuCn61d4ZEwFcFjv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M8eEYuCn61d4ZEwFcFjv-16" value="&lt;font color=&quot;#000000&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" connectable="0" parent="M8eEYuCn61d4ZEwFcFjv-14">
+          <mxGeometry x="-0.3333" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M8eEYuCn61d4ZEwFcFjv-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" edge="1" parent="1" source="M8eEYuCn61d4ZEwFcFjv-9" target="M8eEYuCn61d4ZEwFcFjv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M8eEYuCn61d4ZEwFcFjv-19" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#FFFFFF;fontColor=default;fillColor=#182E3E;" vertex="1" connectable="0" parent="M8eEYuCn61d4ZEwFcFjv-18">
+          <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M8eEYuCn61d4ZEwFcFjv-9" value="超时？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="80" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M8eEYuCn61d4ZEwFcFjv-11" value="等待产品到位" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M8eEYuCn61d4ZEwFcFjv-17" value="报警" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

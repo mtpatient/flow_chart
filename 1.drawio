@@ -10,13 +10,11 @@
         <mxCell id="2jMfb3A7zRG2xOkepGvH-2" value="初始化" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="30" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M8eEYuCn61d4ZEwFcFjv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M8eEYuCn61d4ZEwFcFjv-1" target="M8eEYuCn61d4ZEwFcFjv-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="110" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="bgK-SnqpJMSMS5eUhuic-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M8eEYuCn61d4ZEwFcFjv-1" target="bgK-SnqpJMSMS5eUhuic-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M8eEYuCn61d4ZEwFcFjv-1" value="要板：&lt;div&gt;向上位机发送要板信号；等待入口传感器响应&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="230" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M8eEYuCn61d4ZEwFcFjv-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="M8eEYuCn61d4ZEwFcFjv-11" target="M8eEYuCn61d4ZEwFcFjv-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -38,6 +36,12 @@
         </mxCell>
         <mxCell id="M8eEYuCn61d4ZEwFcFjv-24" value="出板" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1130" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bgK-SnqpJMSMS5eUhuic-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bgK-SnqpJMSMS5eUhuic-1" target="M8eEYuCn61d4ZEwFcFjv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgK-SnqpJMSMS5eUhuic-1" value="待料" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

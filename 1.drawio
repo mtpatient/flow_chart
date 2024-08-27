@@ -34,7 +34,10 @@
         <mxCell id="M8eEYuCn61d4ZEwFcFjv-22" value="点胶" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="930" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M8eEYuCn61d4ZEwFcFjv-24" value="出板" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="bgK-SnqpJMSMS5eUhuic-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M8eEYuCn61d4ZEwFcFjv-24" target="bgK-SnqpJMSMS5eUhuic-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M8eEYuCn61d4ZEwFcFjv-24" value="等待出板" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1130" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bgK-SnqpJMSMS5eUhuic-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bgK-SnqpJMSMS5eUhuic-1" target="M8eEYuCn61d4ZEwFcFjv-11">
@@ -42,6 +45,15 @@
         </mxCell>
         <mxCell id="bgK-SnqpJMSMS5eUhuic-1" value="待料" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bgK-SnqpJMSMS5eUhuic-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bgK-SnqpJMSMS5eUhuic-4" target="bgK-SnqpJMSMS5eUhuic-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgK-SnqpJMSMS5eUhuic-4" value="等待产品离开点胶位" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bgK-SnqpJMSMS5eUhuic-6" value="等待产品离开机器" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

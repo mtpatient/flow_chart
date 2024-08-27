@@ -58,7 +58,7 @@
         <mxCell id="bgK-SnqpJMSMS5eUhuic-6" value="等待产品离开机器" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1370" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bgK-SnqpJMSMS5eUhuic-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="M8eEYuCn61d4ZEwFcFjv-22" target="M8eEYuCn61d4ZEwFcFjv-1">
+        <mxCell id="bgK-SnqpJMSMS5eUhuic-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="M8eEYuCn61d4ZEwFcFjv-22" target="M8eEYuCn61d4ZEwFcFjv-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="870" y="230" as="sourcePoint" />
             <mxPoint x="920" y="180" as="targetPoint" />

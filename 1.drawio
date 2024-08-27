@@ -34,9 +34,6 @@
         <mxCell id="M8eEYuCn61d4ZEwFcFjv-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" parent="1" source="M8eEYuCn61d4ZEwFcFjv-22" target="M8eEYuCn61d4ZEwFcFjv-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bgK-SnqpJMSMS5eUhuic-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M8eEYuCn61d4ZEwFcFjv-22" target="bgK-SnqpJMSMS5eUhuic-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="M8eEYuCn61d4ZEwFcFjv-22" value="点胶" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="860" y="80" width="120" height="60" as="geometry" />
         </mxCell>
@@ -60,15 +57,6 @@
         </mxCell>
         <mxCell id="bgK-SnqpJMSMS5eUhuic-6" value="等待产品离开机器" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1370" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bgK-SnqpJMSMS5eUhuic-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bgK-SnqpJMSMS5eUhuic-10" target="bgK-SnqpJMSMS5eUhuic-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bgK-SnqpJMSMS5eUhuic-10" value="要板" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="860" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bgK-SnqpJMSMS5eUhuic-12" value="待料" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

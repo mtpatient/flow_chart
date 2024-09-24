@@ -82,12 +82,6 @@
         <mxCell id="bgK-SnqpJMSMS5eUhuic-22" value="等待队列" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YFn9wd9l34rtt5gMmxf--4" value="队列1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="105" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YFn9wd9l34rtt5gMmxf--5" value="队列2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="270" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="YFn9wd9l34rtt5gMmxf--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.622;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bgK-SnqpJMSMS5eUhuic-6" target="bgK-SnqpJMSMS5eUhuic-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
